@@ -9,7 +9,7 @@ class target{
             {
                 if(arr[i]+arr[j]==target)
                 {
-                    System.out.print(arr[i]);
+                    System.out.print(arr[i]+",");
                      System.out.print(arr[j]);
 
                      
