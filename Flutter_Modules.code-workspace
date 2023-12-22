@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Flutter_Modules"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.dependency.syncWithFolderExplorer": false
+	}
+}
