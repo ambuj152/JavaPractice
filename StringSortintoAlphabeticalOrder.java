@@ -16,9 +16,8 @@ public class StringSortintoAlphabeticalOrder {
                 }
                 }
             }
-               String sortedString = new String(charArray);
               System.out.println( inputString);
-                System.out.println(sortedString);
+                System.out.println(charArray);
         }
     }
     
