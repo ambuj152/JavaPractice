@@ -14,8 +14,6 @@ class target{
                 {
                     System.out.print(arr[i]+",");
                      System.out.print(arr[j]);
-
-                     
                      arr[j]=arr[j+1];  
                 }arr[i]=arr[i+1];
             }
