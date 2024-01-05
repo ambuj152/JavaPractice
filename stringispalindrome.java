@@ -13,7 +13,7 @@ public class stringispalindrome {
               return ans;
               }
               public static void main(String[] args) {
-              String str = "abba";
+               String str = "ababa";
               str = str.toLowerCase();
                boolean A = isPalindrome(str);
               System.out.println(A);
