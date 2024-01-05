@@ -6,7 +6,6 @@ public class stringispalindrome {
               {
                 rev = rev + str.charAt(i);
               }
-    
               if (str.equals(rev)) 
               {
                 ans = true;
