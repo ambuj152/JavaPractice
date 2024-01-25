@@ -1,5 +1,5 @@
-public class ReverseString {
-       
+public class ReverseString 
+{
         public static void main(String[] args) 
         {
          String originalString = "Ambuj yadav";
@@ -10,10 +10,10 @@ public class ReverseString {
             public static String reverseString(String input) 
         {
               StringBuilder stringBuilder = new StringBuilder(input);
-            stringBuilder.reverse();
+             stringBuilder.reverse();
             return stringBuilder.toString();
         }
-    }
+           }
     
 
 
