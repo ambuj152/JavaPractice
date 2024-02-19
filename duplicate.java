@@ -13,8 +13,7 @@ class Duplicate
                         Student[j]=Student[j+1]; 
                         Student[i]=Student[i+1]; 
                      
-                            
-         
+                              
                       }
                       else
                       {
